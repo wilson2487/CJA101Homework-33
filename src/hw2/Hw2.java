@@ -1,6 +1,6 @@
 package hw2;
 
-public class hw2 {
+public class Hw2 {
 	public static void main(String[] args) {
 		//作業一
 		int sum = 0;
