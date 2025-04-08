@@ -43,6 +43,9 @@ public class Hw8_2 {
 		al.add(t6);
 		al.add(t7);
 		al.sort(null);
+		for(int i = 0; i < al.size(); i ++) {
+			System.out.println(al.get(i));
+		}
 		for(Train n: al) {
 			System.out.println(n);
 		}
@@ -62,9 +65,7 @@ public class Hw8_2 {
 		for (Train train : ts) {
 		    System.out.println(train);
 		}
-		for (int i = 0; i < ts.size(); i++) {
 
-		}
 		Iterator ots = ts.iterator();
 		while (ots.hasNext()) {
 
