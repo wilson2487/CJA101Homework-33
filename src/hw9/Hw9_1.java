@@ -37,6 +37,6 @@ public class Hw9_1 {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		System.out.println("比賽結束");
+		System.out.println("比賽結束1");
 	}
 }
